@@ -1,0 +1,29 @@
+{
+  "name": "multi-template-mod",
+  "version": "0.5.0",
+  "factorio_version": "1.1",
+  "title": "Multi-template mod",
+  "author": "ZwerOxotnik",
+  "contact": "zweroxotnik@gmail.com, Discord:ZwerOxotnik",
+  "homepage": "https://www.reddit.com/r/ZwerOxotnik/",
+  "description": "Contains several integrations and examples with some mods.",
+  "dependencies": [
+    "? decals >= 2.0.0",
+    "? zk-lib >= 0.10.0",
+    "? BetterCommands",
+    "? gvv",
+    "(?) limited_buildings",
+    "(?) protected_teams",
+    "(?) anti_blueprint_spam",
+    "(?) pipe_protection",
+    "(?) explosive_oil",
+    "(?) protect_my_vehicles",
+    "(?) turrets_drop_ammo",
+    "(?) entities_drop_content",
+    "(?) recontrol",
+    "(?) m-microcontroller",
+    "(?) m-lawful-evil",
+    "(?) trading_system",
+    "(?) PrivateElectricity"
+  ]
+}

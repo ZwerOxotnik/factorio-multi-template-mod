@@ -1,0 +1,1 @@
+require("scenarios.template.control")
